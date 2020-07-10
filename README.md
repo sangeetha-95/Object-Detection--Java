@@ -6,5 +6,9 @@
 
 2.TensorRT 6.0.1.5
 
-* Caffe Model SSD is parsed into Tensorrt and saved as a .trt file
+* Onnx Model DUC is parsed into Tensorrt and saved as a .trt file
+* Code structure can be referenced from 
 https://github.com/NVIDIA/TensorRT/tree/release/7.0/samples/opensource/sampleSSD
+
+* Onnx Models are available in 
+https://github.com/onnx/models
